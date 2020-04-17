@@ -1,5 +1,5 @@
 # ReciprocalRecommender
-Realising some typical reciprocal recommendation models (2019-2020)
+Realising some reciprocal recommendation models (2019-2020)
 
 
 **Running Requirements:**
