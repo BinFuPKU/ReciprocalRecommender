@@ -7,7 +7,7 @@ Realising some typical reciprocal recommendation models (2019-2020)
 
 
 
-We realized some common-used collaborative filtering methods in recommendation domain, including:
+We realized some collaborative filtering methods in reciprocal recommendation domain, including:
 
 [1]. Xiongcai Cai, Michael Bain, Alfred Krzywicki, Wayne Wobcke, Yang Sok Kim, Paul Compton, Ashesh Mahidadia: Collaborative Filtering for People to People Recommendation in Social Networks. Australasian Conference on Artificial Intelligence 2010: 476-485.
 
