@@ -1,4 +1,4 @@
-# ReciprocalRecommender
+# Reciprocal Recommender
 Realising some reciprocal recommendation models (2019-2020)
 
 
